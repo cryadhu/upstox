@@ -1,0 +1,18 @@
+{
+  "ltp": "LTP",
+  "pl": "P/L",
+  "currentValue": "Current Value",
+  "totalInvestment": "Total Investment",
+  "todaysPL": "Today's Profit & Loss",
+  "profitLoss": "Profit & Loss",
+  "upstoxHolding": "Upstox Holding",
+  "overAllCurrentValue": "Current Value",
+  "overAllTotalInvestment": "Total Investment",
+  "overAllTotalProfitLoss": "Total Profit Loss",
+  "overAllProfitLoss": "Profit & Loss",
+  "summary": "Summary",
+  "noData": "No Data found",
+  "noDataDescription": "Please try again later",
+  "weSorry": "We are sorry",
+  "somethingWrong": "Something went wrong"
+}
